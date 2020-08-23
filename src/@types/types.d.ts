@@ -1,0 +1,1 @@
+declare module '@alan-ai/alan-sdk-web';
